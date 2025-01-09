@@ -35,8 +35,8 @@ Each solution is crafted to not only solve the problem but also to improve effic
 ```plaintext
 .
 ├── solutions/
-│   ├── day1-problem-name.js
-│   ├── day2-problem-name.js
+│   ├── 01-problem-name.js
+│   ├── 02-problem-name.js
 │   └── ...
 ├── README.md
 └── ...
