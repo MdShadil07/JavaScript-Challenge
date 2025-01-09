@@ -36,6 +36,13 @@ Clone the repository:
 
 git clone https://github.com/MdShadil07/JavaScript-Challenge.git
 
+```
+## 📈 Progress Tracking
+Total Challenges Solved: [5]
+Current Streak: [3]
+Stay tuned for daily updates!
+
+
 
 ## 📂 Repository Structure
 
@@ -49,4 +56,8 @@ git clone https://github.com/MdShadil07/JavaScript-Challenge.git
 └── ...
 
 
+```
 
+
+## 🛠️ Technologies Used
+JavaScript: All solutions are implemented using modern JavaScript (ES6+).
