@@ -30,6 +30,13 @@ Each solution is crafted to not only solve the problem but also to improve effic
 - **Consistency and Commitment**: Solving problems daily highlights my dedication to continuous learning and improvement.
 - **Technical Proficiency**: Each solution reflects a deep understanding of JavaScript and algorithmic concepts.
 
+## 🚧 How to Use
+Clone the repository:
+```plaintext
+
+git clone https://github.com/MdShadil07/JavaScript-Challenge.git
+
+
 ## 📂 Repository Structure
 
 ```plaintext
@@ -41,10 +48,5 @@ Each solution is crafted to not only solve the problem but also to improve effic
 ├── README.md
 └── ...
 
-## 🚧 How to Use
-Clone the repository:
-```plaintext
 
-
-git clone https://github.com/MdShadil07/JavaScript-Challenge.git
 
