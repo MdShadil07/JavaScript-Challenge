@@ -40,3 +40,11 @@ Each solution is crafted to not only solve the problem but also to improve effic
 │   └── ...
 ├── README.md
 └── ...
+
+## 🚧 How to Use
+Clone the repository:
+```plaintext
+
+
+git clone https://github.com/MdShadil07/JavaScript-Challenge.git
+
