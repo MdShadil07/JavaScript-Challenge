@@ -19,17 +19,14 @@
 //? If all three sides have different lengths, return "Scalene".
 
 const checkTriangleType = (side1, side2, side3) => {
-  if (side1 == side2 && side2 == side3 && side1 == side3) {
-    return "equilateral";
-  } else if (side1 === side2 || side2 === side3 || side1 === side3) {
+  if (side1 === side2 && side2 === side3) return "equilateral";
+  else if (side1 === side2 || side2 === side3 || side1 === side3)
     return "isosceles";
-  } else {
-    return "Scalene";
-  }
+  else return "Scalene";
 };
 
-console.log(checkTriangleType(3, 3, 3));
+console.log(checkTriangleType(3, 8, 0));
 
 console.log(checkTriangleType(3, 4, 4));
 
-console.log(checkTriangleType(5, 8, 6));
+console.log(checkTriangleType(8, 8, 8));
